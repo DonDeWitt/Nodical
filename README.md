@@ -13,8 +13,7 @@ Useful for:
   - hosting events
   - team schedules
   
-Launch by <edit>.s
-
+Nodical was created by Donald DeWitt, Bryan Bartlett, Keigan Perry-Matson, William Shaw, & Elena Vilceanu for Software Engineering 101 at Rowan University in 2020
 ## Getting Started
 
 This project is a starting point for a Flutter application.
